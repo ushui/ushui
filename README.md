@@ -1,6 +1,6 @@
 ### Codes published on this account 🔭
 This account mainly publishes the REVIVE USB series repository.  
-These are my unofficial modifications to the firmware of hardware products from Bit Trade One, Inc. in Japan.  
+These are my unofficial modifications to the firmware(PIC MCUs) of hardware products from Bit Trade One, Inc. in Japan.  
 Some code has been officially merged.
 
 ### What do you usually do? 💬
